@@ -1,0 +1,12 @@
+GET /GetUsers.action HTTP/1.1
+Host: www.evernote.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en,it-IT;q=0.9,it;q=0.8,en-US;q=0.7
+Cookie: _ga=GA1.2.1542978993.1583694916; _gcl_au=1.1.515362189.1583694917; _fbp=fb.1.1583694918186.1170823938; __qca=P0-153837977-1583694918227
+

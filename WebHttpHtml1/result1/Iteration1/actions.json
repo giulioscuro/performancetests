@@ -1,0 +1,28 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: GetUsers.action",
+                "infFile": "t2.inf",
+                "time": 1588682517911
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Url: www.giulioscuro.it",
+                "infFile": "t5.inf",
+                "time": 1588682527491
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "1_transaction",
+                "rawStartTime": 1588682527492,
+                "rawEndTime": 1588682527494,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0
+            }
+        ]
+    }
+]

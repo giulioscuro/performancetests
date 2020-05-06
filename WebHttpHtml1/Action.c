@@ -115,8 +115,10 @@ Action()
 		LAST);
 
 	lr_start_transaction("1_transaction");
+	
 
 	lr_end_transaction("1_transaction",LR_AUTO);
 
 	return 0;
+	
 }

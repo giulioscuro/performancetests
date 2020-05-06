@@ -1,0 +1,273 @@
+[API Trapper      (2d8c:2fa0)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[API Trapper      (37e0:37ec)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[API Trapper      (2e08:2e90)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[API Trapper      (2e64:2df8)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[Network Analyzer (2e64:2a6c)] ------------------------------------------------------------------------------------------
+[Network Analyzer (2e64:2a6c)] Load Network Traffic Analyzers:
+[Network Analyzer (2e64:2a6c)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (2e64:2a6c)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (2e64:2a6c)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (2e64:2a6c)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (2e64:2a6c)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (2e64:2a6c)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (2e64:2a6c)]     Analyzer Module: local_server (value=)
+[Network Analyzer (2e64:2a6c)] ------------------------------------------------------------------------------------------
+[Network Analyzer (2e64:3244)] Address lookup for DESKTOP-I8N3NJK = 172.17.86.65
+[Network Analyzer (2e64:2a6c)] Address lookup for DESKTOP-I8N3NJK = 172.17.86.65
+[Network Analyzer (2e64:2a6c)] Request Connection: Remote Server @ 192.168.1.2:60000   (Service=)  (Sid=  1)  PROXIED!
+[Web Request      (2e64:3244)] "GET /upnp/dev/f0a70851-b4ee-a3eb-ffff-ffff95887b80/desc"   
+[Network Analyzer (2e64:3244)]   (Sid:  1) Client -> Server @ : 278 bytes (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid:  1) Server -> Client : 185 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid:  1) Server -> Client : 903 bytes  (Service=HTTP)
+[Network Analyzer (2e64:2a6c)] Address lookup for DESKTOP-I8N3NJK = 172.17.86.65
+[Network Analyzer (2e64:2a6c)] Request Connection: Remote Server @ 216.58.206.67:443   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (2e64:2a6c)] Address lookup for DESKTOP-I8N3NJK = 172.17.86.65
+[Network Analyzer (2e64:2a6c)] Request Connection: Remote Server @ 34.107.165.220:443   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (2e64:20fc)]   (Sid:  2) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (2e64:2a6c)] Address lookup for DESKTOP-I8N3NJK = 172.17.86.65
+[Network Analyzer (2e64:2a6c)] Request Connection: Remote Server @ 217.160.0.164:80   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (2e64:2a6c)] Address lookup for DESKTOP-I8N3NJK = 172.17.86.65
+[Network Analyzer (2e64:1610)]   (Sid:  3) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (2e64:2a6c)] Request Connection: Remote Server @ 216.58.205.78:443   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer (2e64:2a6c)] Address lookup for DESKTOP-I8N3NJK = 172.17.86.65
+[Network Analyzer (2e64:2a6c)] Request Connection: Remote Server @ 216.58.206.42:443   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (2e64:2a6c)] Address lookup for DESKTOP-I8N3NJK = 172.17.86.65
+[Network Analyzer (2e64:2a6c)] Request Connection: Remote Server @ 216.58.208.141:443   (Service=)  (Sid=  7)  PROXIED!
+[Web Request      (2e64:3244)] "GET /"   
+[Network Analyzer (2e64:3244)]   (Sid:  4) Client -> Server @ : 447 bytes (Service=HTTP)
+[Network Analyzer (2e64:1610)]   (Sid:  3) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (2e64:20fc)]   (Sid:  2) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (2e64: c6c)]   (Sid:  5) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (2e64: c6c)]   (Sid:  5) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (2e64:2b44)]   (Sid:  6) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (2e64:2b44)]   (Sid:  6) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (2e64:4444)]   (Sid:  7) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (2e64:4444)]   (Sid:  7) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (2e64:3244)] "GET /chrome-variations/seed?osname=win&channel=stable&milestone=81"   
+[Network Analyzer (2e64:3244)]   (Sid:  2) Client -> Server @ : 449 bytes (SSL)(Service=HTTP)
+[Web Request      (2e64:3244)] "GET /GetUsers.action"   
+[Network Analyzer (2e64:3244)]   (Sid:  3) Client -> Server @ : 525 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid:  2) Server -> Client : 329 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid:  3) Server -> Client : 349 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2e64:2a6c)] Address lookup for DESKTOP-I8N3NJK = 172.17.86.65
+[Network Analyzer (2e64:2a6c)] Request Connection: Remote Server @ 34.107.165.220:443   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer (2e64:3244)]   (Sid:  3) Client -> Server @ : 739 bytes (SSL)(Service=HTTP)
+[Web Request      (2e64:3244)] "POST /u/0/edam/user/"   
+[Network Analyzer (2e64:3244)]   (Sid:  3) Client -> Server @ : 27 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2e64:3c78)]   (Sid:  8) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (2e64:3c78)]   (Sid:  8) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (2e64:3244)]   (Sid:  3) Server -> Client : 447 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid:  8) Client -> Server @ : 739 bytes (SSL)(Service=HTTP)
+[Web Request      (2e64:3244)] "POST /u/0/edam/user/"   
+[Network Analyzer (2e64:3244)]   (Sid:  8) Client -> Server @ : 31 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid:  8) Server -> Client : 450 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid:  4) Server -> Client : 326 bytes  (Service=HTTP)
+[Network Analyzer (2e64:2a6c)] Address lookup for DESKTOP-I8N3NJK = 172.17.86.65
+[Network Analyzer (2e64:2a6c)] Request Connection: Remote Server @ 217.160.0.164:80   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer (2e64:2a6c)] Address lookup for DESKTOP-I8N3NJK = 172.17.86.65
+[Web Request      (2e64:3244)] "GET /"   
+[Network Analyzer (2e64:3244)]   (Sid:  9) Client -> Server @ : 443 bytes (Service=HTTP)
+[Network Analyzer (2e64:2a6c)] Request Connection: Remote Server @ 192.168.1.2:8009   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer (2e64:3244)]   (Sid:  9) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid:  9) Server -> Client : 4714 bytes  (Service=HTTP)
+[Web Request      (2e64:3244)] "GET /wp-content/plugins/the-events-calendar/common/src/resources/css/common-skeleton.min.css?ver=4.11.5.1"   
+[Network Analyzer (2e64:3244)]   (Sid:  9) Client -> Server @ : 440 bytes (Service=HTTP)
+[Network Analyzer (2e64:2a6c)] Address lookup for DESKTOP-I8N3NJK = 172.17.86.65
+[Network Analyzer (2e64:2a6c)] Request Connection: Remote Server @ 217.160.0.164:80   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer (2e64:2a6c)] Address lookup for DESKTOP-I8N3NJK = 172.17.86.65
+[Web Request      (2e64:3244)] "GET /wp-content/plugins/the-events-calendar/common/src/resources/css/tooltip.min.css?ver=4.11.5.1"   
+[Network Analyzer (2e64:3244)]   (Sid: 11) Client -> Server @ : 432 bytes (Service=HTTP)
+[Network Analyzer (2e64:2a6c)] Request Connection: Remote Server @ 217.160.0.164:80   (Service=)  (Sid= 12)  PROXIED!
+[Network Analyzer (2e64:2a6c)] Address lookup for DESKTOP-I8N3NJK = 172.17.86.65
+[Network Analyzer (2e64:3244)]   (Sid:  9) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid:  9) Server -> Client : 4788 bytes  (Service=HTTP)
+[Network Analyzer (2e64:2a6c)] Request Connection: Remote Server @ 217.160.0.164:80   (Service=)  (Sid= 13)  PROXIED!
+[Web Request      (2e64:3244)] "GET /wp-includes/css/dist/block-library/style.min.css?ver=5.4.1"   
+[Network Analyzer (2e64:3244)]   (Sid: 12) Client -> Server @ : 398 bytes (Service=HTTP)
+[Web Request      (2e64:3244)] "GET /wp-content/themes/radiate/style.css?ver=5.4.1"   
+[Network Analyzer (2e64:3244)]   (Sid: 13) Client -> Server @ : 385 bytes (Service=HTTP)
+[Network Analyzer (2e64:2a6c)] Address lookup for DESKTOP-I8N3NJK = 172.17.86.65
+[Network Analyzer (2e64:3244)]   (Sid: 11) Server -> Client : 984 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 13) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 13) Server -> Client : 9094 bytes  (Service=HTTP)
+[Network Analyzer (2e64:2a6c)] Request Connection: Remote Server @ 217.160.0.164:80   (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer (2e64:2a6c)] Address lookup for DESKTOP-I8N3NJK = 172.17.86.65
+[Network Analyzer (2e64:3244)]   (Sid: 12) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 12) Server -> Client : 8463 bytes  (Service=HTTP)
+[Network Analyzer (2e64:2a6c)] Request Connection: Remote Server @ 217.160.0.164:80   (Service=)  (Sid= 15)  PROXIED!
+[Network Analyzer (2e64:2a6c)] Address lookup for DESKTOP-I8N3NJK = 172.17.86.65
+[Network Analyzer (2e64:2a6c)] Request Connection: Remote Server @ 216.58.198.10:80   (Service=)  (Sid= 16)  PROXIED!
+[Web Request      (2e64:3244)] "GET /wp-content/themes/radiate/genericons/genericons.css?ver=3.3.1"   
+[Network Analyzer (2e64:3244)]   (Sid: 14) Client -> Server @ : 401 bytes (Service=HTTP)
+[Web Request      (2e64:3244)] "GET /wp-content/plugins/1and1-wordpress-assistant/js/cookies.js?ver=5.4.1"   
+[Network Analyzer (2e64:3244)]   (Sid: 15) Client -> Server @ : 393 bytes (Service=HTTP)
+[Web Request      (2e64:3244)] "GET /css?family=Roboto%7CMerriweather%3A400%2C300&ver=5.4.1"   
+[Network Analyzer (2e64:3244)]   (Sid: 16) Client -> Server @ : 400 bytes (Service=HTTP)
+[Web Request      (2e64:3244)] "GET /wp-includes/js/jquery/jquery.js?ver=1.12.4-wp"   
+[Network Analyzer (2e64:3244)]   (Sid:  9) Client -> Server @ : 370 bytes (Service=HTTP)
+[Web Request      (2e64:3244)] "GET /wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"   
+[Network Analyzer (2e64:3244)]   (Sid: 11) Client -> Server @ : 378 bytes (Service=HTTP)
+[Web Request      (2e64:3244)] "GET /wp-content/themes/radiate/js/navigation.js?ver=20120206"   
+[Network Analyzer (2e64:3244)]   (Sid: 13) Client -> Server @ : 380 bytes (Service=HTTP)
+[Web Request      (2e64:3244)] "GET /wp-content/themes/radiate/js/skip-link-focus-fix.js?ver=20130115"   
+[Network Analyzer (2e64:3244)]   (Sid: 12) Client -> Server @ : 389 bytes (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 16) Server -> Client : 1224 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 16) Server -> Client : 20 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 13) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 13) Server -> Client : 388 bytes  (Service=HTTP)
+[Web Request      (2e64:3244)] "GET /wp-content/themes/radiate/js/custom.js?ver=5.4.1"   
+[Network Analyzer (2e64:3244)]   (Sid: 13) Client -> Server @ : 373 bytes (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 13) Server -> Client : 1002 bytes  (Service=HTTP)
+[Web Request      (2e64:3244)] "GET /wp-includes/js/wp-embed.min.js?ver=5.4.1"   
+[Network Analyzer (2e64:3244)]   (Sid: 13) Client -> Server @ : 365 bytes (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 12) Server -> Client : 798 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 14520 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 11) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 11) Server -> Client : 3257 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 15) Server -> Client : 875 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 1283 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid:  9) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid:  9) Server -> Client : 13068 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid:  9) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid:  9) Server -> Client : 8712 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid:  9) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid:  9) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid:  9) Server -> Client : 8712 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid:  9) Server -> Client : 658 bytes  (Service=HTTP)
+[Web Request      (2e64:3244)] "GET /wp-includes/js/wp-emoji-release.min.js?ver=5.4.1"   
+[Network Analyzer (2e64:3244)]   (Sid:  9) Client -> Server @ : 373 bytes (Service=HTTP)
+[Web Request      (2e64:3244)] "GET /wp-content/themes/radiate/images/header/header-image-one.jpg"   
+[Network Analyzer (2e64:3244)]   (Sid: 14) Client -> Server @ : 421 bytes (Service=HTTP)
+[Network Analyzer (2e64:2a6c)] Address lookup for DESKTOP-I8N3NJK = 172.17.86.65
+[Network Analyzer (2e64:2a6c)] Request Connection: Remote Server @ 216.58.206.35:80   (Service=)  (Sid= 17)  PROXIED!
+[Network Analyzer (2e64:2a6c)] Address lookup for DESKTOP-I8N3NJK = 172.17.86.65
+[Network Analyzer (2e64:2a6c)] Request Connection: Remote Server @ 216.58.206.35:80   (Service=)  (Sid= 18)  PROXIED!
+[Network Analyzer (2e64:2a6c)] Address lookup for DESKTOP-I8N3NJK = 172.17.86.65
+[Network Analyzer (2e64:2a6c)] Request Connection: Remote Server @ 216.58.206.35:80   (Service=)  (Sid= 19)  PROXIED!
+[Web Request      (2e64:3244)] "GET /s/merriweather/v21/u-4n0qyriQwlOrhSvowK_l521wRZWMf6.woff2"   
+[Network Analyzer (2e64:3244)]   (Sid: 17) Client -> Server @ : 476 bytes (Service=HTTP)
+[Web Request      (2e64:3244)] "GET /s/roboto/v20/KFOmCnqEu92Fr1Mu4mxK.woff2"   
+[Network Analyzer (2e64:3244)]   (Sid: 18) Client -> Server @ : 458 bytes (Service=HTTP)
+[Web Request      (2e64:3244)] "GET /s/merriweather/v21/u-440qyriQwlOrhSvowK_l5-fCZM.woff2"   
+[Network Analyzer (2e64:3244)]   (Sid: 19) Client -> Server @ : 472 bytes (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 17) Server -> Client : 1430 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 13) Server -> Client : 1182 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 17) Server -> Client : 12870 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 18) Server -> Client : 14300 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid:  9) Server -> Client : 5649 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 17) Server -> Client : 5220 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 18) Server -> Client : 1828 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 19) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 19) Server -> Client : 3308 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid:  1) Connection Terminated (by Server)
+[Network Analyzer (2e64:2a6c)] Address lookup for DESKTOP-I8N3NJK = 172.17.86.65
+[Network Analyzer (2e64:2a6c)] Request Connection: Remote Server @ 216.58.208.142:443   (Service=)  (Sid= 20)  PROXIED!
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 14520 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 4356 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 5808 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 5808 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 4356 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 4356 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 4356 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 5808 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 4356 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 4356 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 5808 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 5808 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 4356 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 8712 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 5808 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 7260 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 5808 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 8712 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 7260 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 7260 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 4356 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 4356 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 7260 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 4356 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 4356 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 2431 bytes  (Service=HTTP)
+[Web Request      (2e64:3244)] "GET /favicon.ico"   
+[Network Analyzer (2e64:3244)]   (Sid: 14) Client -> Server @ : 372 bytes (Service=HTTP)
+[Network Analyzer (2e64:2a6c)] Address lookup for DESKTOP-I8N3NJK = 172.17.86.65
+[Network Analyzer (2e64:2a6c)] Request Connection: Remote Server @ 216.58.208.170:443   (Service=)  (Sid= 21)  PROXIED!
+[Network Analyzer (2e64:2a6c)] Address lookup for DESKTOP-I8N3NJK = 172.17.86.65
+[Network Analyzer (2e64:2a6c)] Request Connection: Remote Server @ 216.58.208.170:443   (Service=)  (Sid= 22)  PROXIED!
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 493 bytes  (Service=HTTP)
+[Web Request      (2e64:3244)] "GET /wp-admin/images/w-logo-blue.png"   
+[Network Analyzer (2e64:3244)]   (Sid: 14) Client -> Server @ : 392 bytes (Service=HTTP)
+[Network Analyzer (2e64:2a6c)] Address lookup for DESKTOP-I8N3NJK = 172.17.86.65
+[Network Analyzer (2e64:2a6c)] Request Connection: Remote Server @ 216.58.205.67:443   (Service=)  (Sid= 23)  PROXIED!
+[Network Analyzer (2e64:2a6c)] Address lookup for DESKTOP-I8N3NJK = 172.17.86.65
+[Network Analyzer (2e64:2a6c)] Request Connection: Remote Server @ 216.58.205.67:443   (Service=)  (Sid= 24)  PROXIED!
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Server -> Client : 1579 bytes  (Service=HTTP)
+[API Trapper      (4ab0:44c8)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[Network Analyzer (2e64:2a6c)] Address lookup for DESKTOP-I8N3NJK = 172.17.86.65
+[Network Analyzer (2e64:3244)]   (Sid:  4) Connection Terminated (by Server)
+[Network Analyzer (2e64:3244)]   (Sid: 12) Connection Terminated (by Server)
+[Network Analyzer (2e64:3244)]   (Sid: 11) Connection Terminated (by Server)
+[Network Analyzer (2e64:3244)]   (Sid: 15) Connection Terminated (by Server)
+[Network Analyzer (2e64:3244)]   (Sid: 13) Connection Terminated (by Server)
+[Network Analyzer (2e64:3244)]   (Sid:  9) Connection Terminated (by Server)
+[Network Analyzer (2e64:3244)]   (Sid: 14) Connection Terminated (by Server)
+[User action                 ] StartTransactionEvent 1_transaction [API Trapper      (4944:3418)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[User action                 ] EndTransactionEvent 1_transaction [Network Analyzer (2e64:3244)]   (Sid:  3) Connection Terminated (by Server)

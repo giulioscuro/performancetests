@@ -1,0 +1,15 @@
+HTTP/2.0 200
+Status: 200
+date: Tue, 05 May 2020 12:41:59 GMT
+content-type: application/x-thrift
+content-length: 57
+cache-control: no-transform
+server: Evernote/1.0
+x-frame-options: SAMEORIGIN
+x-app-server: en0-t6lb-haproxy-lzgn/shard-userstore/en0-ns-29
+alt-svc: clear
+alt-svc: clear
+alt-svc: clear
+strict-transport-security: max-age=31536000
+via: 1.1 google, 1.1 google, 1.1 google
+

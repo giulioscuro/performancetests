@@ -1,0 +1,16 @@
+[t2]
+SnapshotXmlFile=snapshot_3.xml
+ContentType=application/json
+StepName=Url: GetUsers.action
+Total=2
+FileName1=t2.json
+FileName2=t1_0_desc.xml
+RequestHeaderFile=t2_RequestHeader.txt
+SaveSnapshotResources=1
+ResponseHeaderFile=t2_ResponseHeader.txt
+RawStepEndTime=1588682517895
+RawStepName=GetUsers.action
+RequestBodyFile=t2_RequestBody.txt
+RawStepStartTime=1588682517655
+URL1=https://www.evernote.com/GetUsers.action
+URL2=http://192.168.1.2:60000/upnp/dev/f0a70851-b4ee-a3eb-ffff-ffff95887b80/desc

@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: SAMEORIGIN
+Content-Type: application/json;charset=UTF-8
+Content-Language: en
+Content-Length: 18
+Date: Thu, 30 Apr 2020 20:30:49 GMT
+Server: Evernote/1.0
+X-App-Server: en0-t6lb-haproxy-5dbk/shard-reg/en0-ns-582
+Via: 1.1 google
+Alt-Svc: clear
+

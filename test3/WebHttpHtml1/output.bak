@@ -1,0 +1,7 @@
+Virtual User Script started at: 30/04/2020 22:36:50
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 2020.0.0 for Windows 10; build 793 (nov 27 2019 19:51:20)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36  	[MsgId: MMSG-26988]
+Runtime Settings file: "C:\Users\giuli\Documents\VuGen\Scripts\WebHttpHtml1\\default.cfg"  	[MsgId: MMSG-27141]
+Abort was called from an action.

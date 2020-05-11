@@ -1,0 +1,462 @@
+{
+  "FilterHeaders": [
+    {
+      "Header": "x-evernote-agent",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "user-agent",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "upgrade-insecure-requests",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-fetch-site",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-fetch-mode",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-fetch-dest",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "origin",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "if-none-match",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-language",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-encoding",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "a-im",
+      "IncludeInScript": true
+    }
+  ],
+  "FilterResources": [
+    {
+      "IsNonResource": true,
+      "type": "text/html"
+    },
+    {
+      "IsNonResource": false,
+      "type": "text/css"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/png"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/jpeg"
+    },
+    {
+      "IsNonResource": false,
+      "type": "font/woff2"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/xml"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/x-thrift"
+    },
+    {
+      "IsNonResource": true,
+      "type": "application/json"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/javascript"
+    }
+  ],
+  "GeneralInfo": {
+    "BrowserVersion": "",
+    "IsWinInetMode": false,
+    "MaxUsedConnections": 15,
+    "RecordedBrowser": "Chrome",
+    "RecordingDate": "apr-30-2020",
+    "RecordingDuration": 51796,
+    "RecordingMode": "N/A",
+    "RecordingTimeStamp": 1588278635,
+    "RecordingType": "Browser",
+    "TotalBytesReceived": 458247,
+    "TotalBytesSent": 11746,
+    "TotalRequests": 27,
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36"
+  },
+  "HostInfo": [
+    {
+      "DomainName": "gstatic.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "216.58.206.35",
+          "IncludeInScript": true,
+          "Name": "fonts.gstatic.com",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "font/woff2",
+              "DownloadTime": 47,
+              "EventId": 142,
+              "HttpStatus": 200,
+              "Size": 19300,
+              "URL": "http://fonts.gstatic.com/s/merriweather/v21/u-440qyriQwlOrhSvowK_l5-fCZM.woff2"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "font/woff2",
+              "DownloadTime": 31,
+              "EventId": 136,
+              "HttpStatus": 200,
+              "Size": 15736,
+              "URL": "http://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu4mxK.woff2"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "font/woff2",
+              "DownloadTime": 16,
+              "EventId": 131,
+              "HttpStatus": 200,
+              "Size": 19128,
+              "URL": "http://fonts.gstatic.com/s/merriweather/v21/u-4n0qyriQwlOrhSvowK_l521wRZWMf6.woff2"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "googleapis.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "216.58.198.42",
+          "IncludeInScript": true,
+          "Name": "fonts.googleapis.com",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 31,
+              "EventId": 95,
+              "HttpStatus": 200,
+              "Size": 709,
+              "URL": "http://fonts.googleapis.com/css?family=Roboto%7CMerriweather%3A400%2C300&ver=5.4.1"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "216.58.206.67",
+          "IncludeInScript": true,
+          "Name": "clientservices.googleapis.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 16,
+              "EventId": 47,
+              "HttpStatus": 304,
+              "Size": 0,
+              "URL": "https://clientservices.googleapis.com/chrome-variations/seed?osname=win&channel=stable&milestone=81"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "giulioscuro.it",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "217.160.0.164",
+          "IncludeInScript": true,
+          "Name": "www.giulioscuro.it",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 2109,
+              "EventId": 59,
+              "HttpStatus": 301,
+              "Size": 0,
+              "URL": "http://www.giulioscuro.it/"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "217.160.0.164",
+          "IncludeInScript": true,
+          "Name": "giulioscuro.it",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 610,
+              "EventId": 247,
+              "HttpStatus": 200,
+              "Size": 4119,
+              "URL": "http://giulioscuro.it/wp-admin/images/w-logo-blue.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 672,
+              "EventId": 239,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "http://giulioscuro.it/favicon.ico"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 546,
+              "EventId": 150,
+              "HttpStatus": 200,
+              "Size": 296848,
+              "URL": "http://giulioscuro.it/wp-content/themes/radiate/images/header/header-image-one.jpg"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 187,
+              "EventId": 138,
+              "HttpStatus": 200,
+              "Size": 5249,
+              "URL": "http://giulioscuro.it/wp-includes/js/wp-emoji-release.min.js?ver=5.4.1"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 421,
+              "EventId": 133,
+              "HttpStatus": 200,
+              "Size": 784,
+              "URL": "http://giulioscuro.it/wp-includes/js/wp-embed.min.js?ver=5.4.1"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 500,
+              "EventId": 114,
+              "HttpStatus": 200,
+              "Size": 39460,
+              "URL": "http://giulioscuro.it/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 375,
+              "EventId": 110,
+              "HttpStatus": 200,
+              "Size": 477,
+              "URL": "http://giulioscuro.it/wp-content/plugins/1and1-wordpress-assistant/js/cookies.js?ver=5.4.1"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 375,
+              "EventId": 107,
+              "HttpStatus": 200,
+              "Size": 4309,
+              "URL": "http://giulioscuro.it/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 375,
+              "EventId": 105,
+              "HttpStatus": 200,
+              "Size": 16868,
+              "URL": "http://giulioscuro.it/wp-content/themes/radiate/genericons/genericons.css?ver=3.3.1"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 343,
+              "EventId": 103,
+              "HttpStatus": 200,
+              "Size": 400,
+              "URL": "http://giulioscuro.it/wp-content/themes/radiate/js/skip-link-focus-fix.js?ver=20130115"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 188,
+              "EventId": 101,
+              "HttpStatus": 200,
+              "Size": 604,
+              "URL": "http://giulioscuro.it/wp-content/themes/radiate/js/custom.js?ver=5.4.1"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 93,
+              "EventId": 98,
+              "HttpStatus": 200,
+              "Size": 1441,
+              "URL": "http://giulioscuro.it/wp-content/themes/radiate/js/navigation.js?ver=20120206"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 157,
+              "EventId": 89,
+              "HttpStatus": 200,
+              "Size": 9529,
+              "URL": "http://giulioscuro.it/wp-includes/css/dist/block-library/style.min.css?ver=5.4.1"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 47,
+              "EventId": 84,
+              "HttpStatus": 200,
+              "Size": 10159,
+              "URL": "http://giulioscuro.it/wp-content/themes/radiate/style.css?ver=5.4.1"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 63,
+              "EventId": 82,
+              "HttpStatus": 200,
+              "Size": 600,
+              "URL": "http://giulioscuro.it/wp-content/plugins/the-events-calendar/common/src/resources/css/tooltip.min.css?ver=4.11.5.1"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 156,
+              "EventId": 75,
+              "HttpStatus": 200,
+              "Size": 5854,
+              "URL": "http://giulioscuro.it/wp-content/plugins/the-events-calendar/common/src/resources/css/common-skeleton.min.css?ver=4.11.5.1"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 640,
+              "EventId": 67,
+              "HttpStatus": 200,
+              "Size": 5634,
+              "URL": "http://giulioscuro.it/"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "evernote.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "34.107.165.220",
+          "IncludeInScript": true,
+          "Name": "www.evernote.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/x-thrift",
+              "DownloadTime": 188,
+              "EventId": 57,
+              "HttpStatus": 200,
+              "Size": 61,
+              "URL": "https://www.evernote.com/u/0/edam/user/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/x-thrift",
+              "DownloadTime": 171,
+              "EventId": 55,
+              "HttpStatus": 200,
+              "Size": 57,
+              "URL": "https://www.evernote.com/u/0/edam/user/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 157,
+              "EventId": 49,
+              "HttpStatus": 200,
+              "Size": 18,
+              "URL": "https://www.evernote.com/GetUsers.action"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "192.168.1.2",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "192.168.1.2",
+          "IncludeInScript": true,
+          "Name": "192.168.1.2",
+          "Port": 60000,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/xml",
+              "DownloadTime": 47,
+              "EventId": 8,
+              "HttpStatus": 200,
+              "Size": 903,
+              "URL": "http://192.168.1.2:60000/upnp/dev/f0a70851-b4ee-a3eb-ffff-ffff95887b80/desc"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        }
+      ],
+      "IncludeInScript": true
+    }
+  ],
+  "WebSocket": {
+    "IncludeInScript": false,
+    "IsScriptIncludeWebSocket": false
+  },
+  "NumberOfCorrelations": 0
+}

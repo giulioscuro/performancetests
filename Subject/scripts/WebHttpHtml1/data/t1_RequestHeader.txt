@@ -1,0 +1,6 @@
+GET /upnp/dev/f0a70851-b4ee-a3eb-ffff-ffff95887b80/desc HTTP/1.1
+Host: 192.168.1.2:60000
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+Accept-Encoding: gzip, deflate
+

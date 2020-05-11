@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=15
+Date: Tue, 05 May 2020 12:42:06 GMT
+Server: Apache
+X-Powered-By: PHP/7.3.17
+X-Pingback: http://giulioscuro.it/xmlrpc.php
+Link: <http://giulioscuro.it/wp-json/>; rel="https://api.w.org/", <http://giulioscuro.it/>; rel=shortlink
+X-TEC-API-VERSION: v1
+X-TEC-API-ROOT: http://giulioscuro.it/wp-json/tribe/events/v1/
+X-TEC-API-ORIGIN: http://giulioscuro.it
+Content-Encoding: gzip
+

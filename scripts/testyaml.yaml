@@ -7,5 +7,5 @@ group:
      - "LG1"
 scheduler:
    rampup: '45'
-   Duration: '300'
+   duration: '300'
 ##################################################

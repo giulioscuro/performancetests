@@ -2,7 +2,7 @@
 group:
    - group_name: "TEstInt"
      vusers: '20'
-     script_path: "scripts\\created"
+     script_id: '81'
      lg_name:
      - "LG1"
 scheduler:

@@ -8,7 +8,6 @@ test_content:
       script_path: "scripts\\"
       lg_name:
 .... - "LG1"
-
   scheduler:
      rampup: '45'
      Duration: '300'

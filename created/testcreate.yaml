@@ -1,5 +1,4 @@
 ##################################################
-test_content:
   group:
     - group_name: "TEstInt"
       vusers: '1'

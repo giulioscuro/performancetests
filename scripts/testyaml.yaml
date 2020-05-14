@@ -1,5 +1,4 @@
 ##################################################
-test_name: testyaml
 test_folder_path: "scripts\\" 
 test_content:
   group:

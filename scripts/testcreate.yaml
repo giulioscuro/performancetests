@@ -8,7 +8,6 @@ test_content:
       script_path: "scripts\\WebHttpHtml1"
       lg_name:
      - "LG1"
-
   scheduler:
      rampup: '45'
      Duration: '300'

@@ -1,10 +1,7 @@
 ##################################################
-test_name: mytestname
-test_folder_path: "scripts/demo" 
-test_content:
   group:
     - group_name: "TEstInt"
-      vusers: '1'
+      vusers: '12'
       script_path: "scripts/WebHttpHtml1"
   scheduler:
      rampup: '45'

@@ -1,5 +1,4 @@
 ##################################################
-test_folder_path: "scripts/createdbygit" 
 test_content:
   group:
     - group_name: "TEstInt"

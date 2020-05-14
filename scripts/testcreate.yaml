@@ -1,11 +1,11 @@
 ##################################################
 test_name: mytestname
-test_folder_path: "scripts\\demo" 
+test_folder_path: "scripts/demo" 
 test_content:
   group:
     - group_name: "TEstInt"
       vusers: '20'
-      script_path: "scripts\\WebHttpHtml1"
+      script_path: "scripts/WebHttpHtml1"
   scheduler:
      rampup: '45'
      Duration: '300'

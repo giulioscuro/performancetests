@@ -1,0 +1,11 @@
+##################################################
+test_folder_path: "scripts/createdbygit" 
+test_content:
+  group:
+    - group_name: "TEstInt"
+      vusers: '1'
+      script_path: "scripts/WebHttpHtml1"
+  scheduler:
+     rampup: '45'
+     duration: '300'
+##################################################

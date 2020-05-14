@@ -2,7 +2,7 @@
 group:
    - group_name: "TEstInt"
      vusers: '20'
-     script_id: '181'
+     script_id: '184'
      lg_name:
      - "LG1"
 scheduler:

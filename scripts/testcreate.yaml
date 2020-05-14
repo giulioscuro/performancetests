@@ -6,8 +6,6 @@ test_content:
     - group_name: "TEstInt"
       vusers: '20'
       script_path: "scripts\\WebHttpHtml1"
-      lg_name:
-     - "LG1"
   scheduler:
      rampup: '45'
      Duration: '300'

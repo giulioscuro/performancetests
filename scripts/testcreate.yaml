@@ -5,10 +5,11 @@ test_content:
   group:
     - group_name: "TEstInt"
       vusers: '20'
-      script_path: "scripts"
+      script_path: "scripts\\WebHttpHtml1"
       lg_name:
      - "LG1"
 
   scheduler:
      rampup: '45'
      Duration: '300'
+##################################################
